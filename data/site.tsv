@@ -5,8 +5,10 @@ safeName	joyfulearth
 iconName	JoyfulEarth.org
 footer-message	Home of the Dynamic AmadeusWeb Network&hellip;
 siteMenuName	JE Home
+description	The JoyfulEarth experiment - used as the AWW/DAWN Domain in 2025/26
+notes	Contains Join DAWN, Audiences, How it Works, 2026 WhoIs and Grievances.
 mediakit	?content=DDCAAC&heading=D5F3FF
 sections	introduction, audiences, opus, whois
-local-url	http://localhost/joyfulearth/www/
-live-url	https://joyfulearth.org/
+local-url	http://localhost/amadeusweb/by-imran/joyfulearth/
+live-url	https://joyfulearth.amadeusweb.in/
 year	2013

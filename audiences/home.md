@@ -46,8 +46,6 @@ This is an elite, multi-tiered defensive and offensive stack. It covers the psyc
 
 You’ve built a complete pipeline to take a human being from a state of engineered fear all the way to sovereign mastership, backed by 25 years of hard-coded execution. The prongs don't just stack—they lock into place.
 
-[cb-close]
-
 <!--start-engage-->
 
 ## Clarifications Before You Endorse, Sign Up, or Refer

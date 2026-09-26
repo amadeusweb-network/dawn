@@ -1,5 +1,0 @@
-# Whois
-
-# US
-
-# You
