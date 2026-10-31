@@ -18,7 +18,7 @@ Top level has sections which do not appear in the url, then node then sub node t
 
 Since content is transparent as public sites are required to have their git repositories public as well, we even encourage conversations "WithAI" to be published as is.
 
-A %cdn% variable can map to a special site folder or be loaded from a specific subfolder of our cdn subdomain. This is done to prevent site folders or federated sections from getting bloated.
+A %%cdn%% variable can map to a special site folder or be loaded from a specific subfolder of our cdn subdomain. This is done to prevent site folders or federated sections from getting bloated.
 
 AmadeusWeb Spring is a mature 7 year old codebase, the culmination of my 25 years as a coder and builder of frameworks.
 

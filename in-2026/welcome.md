@@ -16,7 +16,7 @@ Yes, Imran insists on Openness, Transparency and Goodness to all with a healthy 
 
 Anyone repeatedly breaking self made promises or exploiting others or showing pettiness may be expelled and both sides of the story made public record so we can learn from our own history. To prepare for this, we ask that possible reasons for parting ways be discussed and documented up front.
 
-This is part of a mandatory section called �Who Is� a top level folder where we candidly state our intentions, wishes, pledges, personal, thoughts, reflections and critique as the entire network, and humanity grows.
+This is part of a mandatory section called "Who Is" a top level folder where we candidly state our intentions, wishes, pledges, personal, thoughts, reflections and critique as the entire network, and humanity grows.
 
 Don't bring the silly myopic crud of the rat race or the dregs of human pettiness. Rather think of our illimitable origins, meditate on our divine future, and express love and warmth here.
 
